@@ -1,0 +1,22 @@
+{
+  "name": "satanrout-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "bin": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "chalk-animation": "^2.0.2",
+    "inquirer": "^9.1.0",
+    "nanospinner": "^1.1.0",
+    "puppeteer": "^16.2.0"
+  }
+}
